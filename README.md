@@ -7,4 +7,4 @@ A React application with create React Application already includes both React Te
 If you want to use the React Testing Library outer side of the Create React App then you need to install both React Testing Library and jest manually With NPM
 
 ``` npm install --sev-dev @testing-library/react jest ```
-    ####Installing React Testing Library and jest
+####     Installing React Testing Library and jest
